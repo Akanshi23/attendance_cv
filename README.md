@@ -37,7 +37,7 @@ To run the system with real-time  input from your webcam:
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Screenshot:
+## Screenshots:
 
 ![Face1](https://github.com/user-attachments/assets/2b91b40c-4e18-4ff2-a495-9c34a49d0ee6)
 ![Face2](https://github.com/user-attachments/assets/0fcad807-1a01-4588-9056-234723d47936)
