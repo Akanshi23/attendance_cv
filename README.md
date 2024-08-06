@@ -20,9 +20,10 @@ You can install the required packages using pip:
 
 ## Installation
 Clone the repository:
-`git clone https://github.com/Akanshi23/attendance_cv.git'
-cd attendance_cv
-Install the required packages:
+`git clone https://github.com/Akanshi23/attendance_cv.git`
+`cd attendance_cv`
+
+### Install the required packages:
 `pip install -r requirements.txt`
 Download the pre-trained model for face detection and recognition (if applicable) and place it in the models/ directory.
 
